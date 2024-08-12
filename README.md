@@ -1,6 +1,6 @@
-## Invoice translator using google gemini
+## Multi language invoice reader using google gemini
 
->translate invoices from any languages
+>read invoices in any language
 >UI built using streamlit
 
 ## Installation
